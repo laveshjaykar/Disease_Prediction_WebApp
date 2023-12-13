@@ -22,7 +22,7 @@ with st.sidebar:
                           ['Heart Disease Prediction',
                            'Diabetes Prediction',
                            'Parkinsons Prediction'],
-                          icons=['activity','heart','person'],
+                          icons=['heart','activity','person'],
                           default_index=0)
     
     
